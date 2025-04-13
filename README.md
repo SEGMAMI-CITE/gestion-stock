@@ -2,7 +2,7 @@
 Application de gestion de stock en Java 
 ---
 
-## 🧩 Fonctionnalité : Ajout de produit
+## Fonctionnalité : Ajout de produit
 
 Développée dans la branche `feature/ajouter-produit`.
 
