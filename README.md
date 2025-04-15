@@ -12,8 +12,6 @@ Voir les produits existants.
 
 Ajouter / Modifier / Supprimer un produit.
 
-Voir les mouvements de stock.
-
 Générer un rapport PDF des stocks.
 
 GESTION3/
